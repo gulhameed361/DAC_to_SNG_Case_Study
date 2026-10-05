@@ -1,5 +1,7 @@
 # DAC-to-SNG case study: f-TRFu on a direct-air-capture to synthetic-natural-gas flowsheet
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23173532.svg)](https://doi.org/10.5281/zenodo.23173532)
+
 This repository reproduces the f-TRFu results of the **DAC-to-SNG case study,
 Section 8.2** of the thesis: the run of Figure 8.2(a) (37 outer iterations, 20
 f-type and 17 θ-type steps, no rejections) and the f-TRFu column of Table 8.1
@@ -155,7 +157,7 @@ python experiments/make_figure.py --log results/reference/funnel.log
 
 ## Citation
 
-Release 1.0.0 of this repository accompanies G. Hameed, *Rigorous Trust-Region Algorithms for Surrogate-based Grey-box Optimisation*, PhD thesis, University of Surrey, 2026; publications that use later releases are listed here as they appear. Please cite the release you used with the metadata in `CITATION.cff`; each release has its own Zenodo DOI, shown on the repository page.
+Release 1.0.0 of this repository accompanies G. Hameed, *Rigorous Trust-Region Algorithms for Surrogate-based Grey-box Optimisation*, PhD thesis, University of Surrey, 2026; publications that use later releases are listed here as they appear. Please cite the release you used with the metadata in `CITATION.cff`; each release has its own Zenodo DOI. Release 1.0.0: [10.5281/zenodo.23173533](https://doi.org/10.5281/zenodo.23173533); all releases: [10.5281/zenodo.23173532](https://doi.org/10.5281/zenodo.23173532).
 
 ## Licence
 

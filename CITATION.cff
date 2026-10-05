@@ -11,6 +11,15 @@ authors:
 version: "1.0.0"
 date-released: "2026-10-05"
 license: MIT
+doi: "10.5281/zenodo.23173533"
+repository-code: "https://github.com/gulhameed361/DAC_to_SNG_Case_Study"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23173532"
+    description: "Concept DOI: all releases"
+  - type: doi
+    value: "10.5281/zenodo.23173533"
+    description: "Release 1.0.0"
 keywords:
   - "grey-box optimisation"
   - "direct air capture"
