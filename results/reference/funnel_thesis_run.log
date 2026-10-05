@@ -1,0 +1,1240 @@
+****** Iteration 0 ******
+objectiveValue = 3083539.3666510954
+feasibility = 41147707.14456758
+trustRadius = 1.0
+stepNorm = 0
+*************************
+****** Iteration 1 ******
+objectiveValue = 4413400.673135217
+feasibility = 1661322.1331608098
+trustRadius = 0.5000049949974823
+stepNorm = 1.0000099899949646
+step type: theta-type
+*************************
+****** Iteration 2 ******
+objectiveValue = 4421094.98598594
+feasibility = 165909.04399460708
+trustRadius = 0.2500074899959941
+stepNorm = 0.5000149799919882
+step type: theta-type
+*************************
+****** Iteration 3 ******
+objectiveValue = 4407948.649476225
+feasibility = 29343.79866725563
+trustRadius = 0.12500873624009046
+stepNorm = 0.2500174724801809
+step type: theta-type
+*************************
+****** Iteration 4 ******
+objectiveValue = 4400536.620153699
+feasibility = 6284.863148242665
+trustRadius = 0.06250935873691787
+stepNorm = 0.12501871747383575
+step type: theta-type
+*************************
+****** Iteration 5 ******
+objectiveValue = 4396757.167505361
+feasibility = 1460.0759481272598
+trustRadius = 0.031259669677695
+stepNorm = 0.06251933935539
+step type: theta-type
+*************************
+****** Iteration 6 ******
+objectiveValue = 4394859.372968053
+feasibility = 352.26382312428507
+trustRadius = 0.015634824986705098
+stepNorm = 0.031269649973410196
+step type: theta-type
+*************************
+****** Iteration 7 ******
+objectiveValue = 4393909.275346369
+feasibility = 86.57129178561652
+trustRadius = 0.00782240256296518
+stepNorm = 0.01564480512593036
+step type: theta-type
+*************************
+****** Iteration 8 ******
+objectiveValue = 4393433.81492563
+feasibility = 21.47927329697235
+trustRadius = 0.01958095655965053
+stepNorm = 0.007832382623860212
+step type: f-type
+*************************
+****** Iteration 9 ******
+objectiveValue = 4392240.727631597
+feasibility = 133.53689855083985
+trustRadius = 0.048977341061515745
+stepNorm = 0.019590936424606298
+step type: f-type
+*************************
+****** Iteration 10 ******
+objectiveValue = 4389281.3729657745
+feasibility = 819.2246220249256
+trustRadius = 0.1224683010912031
+stepNorm = 0.04898732043648124
+step type: f-type
+*************************
+****** Iteration 11 ******
+objectiveValue = 4382033.477962109
+feasibility = 4880.719087579427
+trustRadius = 0.30619569810369285
+stepNorm = 0.12247827924147714
+step type: f-type
+*************************
+****** Iteration 12 ******
+objectiveValue = 4364809.477570863
+feasibility = 27167.985430597117
+trustRadius = 0.1531028365958491
+stepNorm = 0.3062056731916982
+step type: theta-type
+*************************
+****** Iteration 13 ******
+objectiveValue = 4357899.399586365
+feasibility = 5818.240523307435
+trustRadius = 0.07655640507636008
+stepNorm = 0.15311281015272016
+step type: theta-type
+*************************
+****** Iteration 14 ******
+objectiveValue = 4354376.380061135
+feasibility = 1351.6333145052515
+trustRadius = 0.03828318893897631
+stepNorm = 0.07656637787795262
+step type: theta-type
+*************************
+****** Iteration 15 ******
+objectiveValue = 4352607.44984578
+feasibility = 326.0861802944627
+trustRadius = 0.019146580673464086
+stepNorm = 0.03829316134692817
+step type: theta-type
+*************************
+****** Iteration 16 ******
+objectiveValue = 4351721.9232380595
+feasibility = 80.12988764334776
+trustRadius = 0.009578276444926814
+stepNorm = 0.01915655288985363
+step type: theta-type
+*************************
+****** Iteration 17 ******
+objectiveValue = 4351278.828735308
+feasibility = 19.876508862965558
+trustRadius = 0.02397062141369588
+stepNorm = 0.009588248565478352
+step type: f-type
+*************************
+****** Iteration 18 ******
+objectiveValue = 4350167.236602686
+feasibility = 123.51426892715875
+trustRadius = 0.059951483236204695
+stepNorm = 0.023980593294481878
+step type: f-type
+*************************
+****** Iteration 19 ******
+objectiveValue = 4347410.113707797
+feasibility = 757.6076981622393
+trustRadius = 0.14990363629323156
+stepNorm = 0.05996145451729262
+step type: f-type
+*************************
+****** Iteration 20 ******
+objectiveValue = 4340656.720985696
+feasibility = 4513.53935356199
+trustRadius = 0.37478401518797
+stepNorm = 0.149913606075188
+step type: f-type
+*************************
+****** Iteration 21 ******
+objectiveValue = 4331681.283335523
+feasibility = 8147.738854447536
+trustRadius = 0.1873969906109778
+stepNorm = 0.3747939812219556
+step type: theta-type
+*************************
+****** Iteration 22 ******
+objectiveValue = 4331924.818146547
+feasibility = 0.007557705497749115
+trustRadius = 0.09370347738536111
+stepNorm = 0.18740695477072222
+step type: theta-type
+*************************
+****** Iteration 23 ******
+objectiveValue = 4331910.801098427
+feasibility = 0.002179379601385481
+trustRadius = 0.2342836015199623
+stepNorm = 0.09371344060798492
+step type: f-type
+*************************
+****** Iteration 24 ******
+objectiveValue = 4331875.756678096
+feasibility = 0.008789388631170816
+trustRadius = 0.5857339059991773
+stepNorm = 0.23429356239967092
+step type: f-type
+*************************
+****** Iteration 25 ******
+objectiveValue = 4331788.145799753
+feasibility = 0.05432553407757562
+trustRadius = 1.464359652580356
+stepNorm = 0.5857438610321424
+step type: f-type
+*************************
+****** Iteration 26 ******
+objectiveValue = 4331569.128428221
+feasibility = 0.32436332785601063
+trustRadius = 3.6609239823971507
+stepNorm = 1.4643695929588603
+step type: f-type
+*************************
+****** Iteration 27 ******
+objectiveValue = 4331021.650601072
+feasibility = 2.0628450153100326
+trustRadius = 9.15233471541569
+stepNorm = 3.6609338861662764
+step type: f-type
+*************************
+****** Iteration 28 ******
+objectiveValue = 4329653.390541541
+feasibility = 12.632931352766098
+trustRadius = 22.88086131915378
+stepNorm = 9.152344527661512
+step type: f-type
+*************************
+****** Iteration 29 ******
+objectiveValue = 4326235.407599368
+feasibility = 79.45251127356876
+trustRadius = 57.202177256477
+stepNorm = 22.8808709025908
+step type: f-type
+*************************
+****** Iteration 30 ******
+objectiveValue = 4317707.203083759
+feasibility = 497.0011251575886
+trustRadius = 100.0
+stepNorm = 57.2021862678921
+step type: f-type
+*************************
+****** Iteration 31 ******
+objectiveValue = 4302877.426653793
+feasibility = 1516.4276676912045
+trustRadius = 100.0
+stepNorm = 100.00000801141493
+step type: f-type
+*************************
+****** Iteration 32 ******
+objectiveValue = 4288200.689890408
+feasibility = 1519.22388338885
+trustRadius = 50.000003505707355
+stepNorm = 100.00000701141471
+step type: theta-type
+*************************
+****** Iteration 33 ******
+objectiveValue = 4280948.440588973
+feasibility = 379.48893174997886
+trustRadius = 25.00000500856089
+stepNorm = 50.00001001712178
+step type: theta-type
+*************************
+****** Iteration 34 ******
+objectiveValue = 4277322.318448201
+feasibility = 94.47354350082774
+trustRadius = 62.50002817493794
+stepNorm = 25.000011269975175
+step type: f-type
+*************************
+****** Iteration 35 ******
+objectiveValue = 4268242.695424
+feasibility = 592.6699002594669
+trustRadius = 100.0
+stepNorm = 62.50003381135184
+step type: f-type
+*************************
+****** Iteration 36 ******
+objectiveValue = 4259061.455145488
+feasibility = 614.5567787708457
+trustRadius = 100.0
+stepNorm = 63.643115550368464
+step type: f-type
+*************************
+****** Iteration 37 ******
+objectiveValue = 4259084.663051358
+feasibility = 9.386091903706988e-10
+trustRadius = 1e-06
+stepNorm = 3.1936252979764436e-08
+step type: theta-type
+*************************
+EXIT: Optimal solution found.
+0	41147707.14456758	3083539.3666510954	1.0	0	rejected	
+1	1661322.1331608098	4413400.673135217	0.5000049949974823	1.0000099899949646	theta-type	
+2	165909.04399460708	4421094.98598594	0.2500074899959941	0.5000149799919882	theta-type	
+3	29343.79866725563	4407948.649476225	0.12500873624009046	0.2500174724801809	theta-type	
+4	6284.863148242665	4400536.620153699	0.06250935873691787	0.12501871747383575	theta-type	
+5	1460.0759481272598	4396757.167505361	0.031259669677695	0.06251933935539	theta-type	
+6	352.26382312428507	4394859.372968053	0.015634824986705098	0.031269649973410196	theta-type	
+7	86.57129178561652	4393909.275346369	0.00782240256296518	0.01564480512593036	theta-type	
+8	21.47927329697235	4393433.81492563	0.01958095655965053	0.007832382623860212	f-type	
+9	133.53689855083985	4392240.727631597	0.048977341061515745	0.019590936424606298	f-type	
+10	819.2246220249256	4389281.3729657745	0.1224683010912031	0.04898732043648124	f-type	
+11	4880.719087579427	4382033.477962109	0.30619569810369285	0.12247827924147714	f-type	
+12	27167.985430597117	4364809.477570863	0.1531028365958491	0.3062056731916982	theta-type	
+13	5818.240523307435	4357899.399586365	0.07655640507636008	0.15311281015272016	theta-type	
+14	1351.6333145052515	4354376.380061135	0.03828318893897631	0.07656637787795262	theta-type	
+15	326.0861802944627	4352607.44984578	0.019146580673464086	0.03829316134692817	theta-type	
+16	80.12988764334776	4351721.9232380595	0.009578276444926814	0.01915655288985363	theta-type	
+17	19.876508862965558	4351278.828735308	0.02397062141369588	0.009588248565478352	f-type	
+18	123.51426892715875	4350167.236602686	0.059951483236204695	0.023980593294481878	f-type	
+19	757.6076981622393	4347410.113707797	0.14990363629323156	0.05996145451729262	f-type	
+20	4513.53935356199	4340656.720985696	0.37478401518797	0.149913606075188	f-type	
+21	8147.738854447536	4331681.283335523	0.1873969906109778	0.3747939812219556	theta-type	
+22	0.007557705497749115	4331924.818146547	0.09370347738536111	0.18740695477072222	theta-type	
+23	0.002179379601385481	4331910.801098427	0.2342836015199623	0.09371344060798492	f-type	
+24	0.008789388631170816	4331875.756678096	0.5857339059991773	0.23429356239967092	f-type	
+25	0.05432553407757562	4331788.145799753	1.464359652580356	0.5857438610321424	f-type	
+26	0.32436332785601063	4331569.128428221	3.6609239823971507	1.4643695929588603	f-type	
+27	2.0628450153100326	4331021.650601072	9.15233471541569	3.6609338861662764	f-type	
+28	12.632931352766098	4329653.390541541	22.88086131915378	9.152344527661512	f-type	
+29	79.45251127356876	4326235.407599368	57.202177256477	22.8808709025908	f-type	
+30	497.0011251575886	4317707.203083759	100.0	57.2021862678921	f-type	
+31	1516.4276676912045	4302877.426653793	100.0	100.00000801141493	f-type	
+32	1519.22388338885	4288200.689890408	50.000003505707355	100.00000701141471	theta-type	
+33	379.48893174997886	4280948.440588973	25.00000500856089	50.00001001712178	theta-type	
+34	94.47354350082774	4277322.318448201	62.50002817493794	25.000011269975175	f-type	
+35	592.6699002594669	4268242.695424	100.0	62.50003381135184	f-type	
+36	614.5567787708457	4259061.455145488	100.0	63.643115550368464	f-type	
+37	9.386091903706988e-10	4259084.663051358	1e-06	3.1936252979764436e-08	theta-type	
+Model unknown
+
+  Variables:
+    x : Size=264, Index=K*C
+        Key          : Lower             : Value                  : Upper              : Fixed : Stale : Domain
+          (1, 'CH4') :                 0 :  -9.99973385093925e-09 :          1000000.0 : False : False : NonNegativeReals
+          (1, 'CO2') :                 0 :     26.000000001874962 :          1000000.0 : False : False : NonNegativeReals
+           (1, 'H2') :                 0 : -9.999733851058206e-09 :          1000000.0 : False : False : NonNegativeReals
+          (1, 'H2O') :                 0 : -9.999733852369066e-09 :          1000000.0 : False : False : NonNegativeReals
+           (1, 'N2') :                 0 :                51226.0 :          1000000.0 : False : False : NonNegativeReals
+           (1, 'O2') :                 0 :                13747.0 :          1000000.0 : False : False : NonNegativeReals
+          (2, 'CH4') :                 0 :  -9.99981926425596e-09 :          1000000.0 : False : False : NonNegativeReals
+          (2, 'CO2') :                 0 :  -9.99981926425596e-09 :          1000000.0 : False : False : NonNegativeReals
+           (2, 'H2') :                 0 : -9.999862442195182e-09 :          1000000.0 : False : False : NonNegativeReals
+          (2, 'H2O') :                 0 :     104.00000002249955 :          1000000.0 : False : False : NonNegativeReals
+           (2, 'N2') :                 0 :  -9.99981926425596e-09 :          1000000.0 : False : False : NonNegativeReals
+           (2, 'O2') :                 0 : -9.999861719512187e-09 :          1000000.0 : False : False : NonNegativeReals
+          (3, 'CH4') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (3, 'CO2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+           (3, 'H2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (3, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+           (3, 'N2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+           (3, 'O2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (4, 'CH4') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (4, 'CO2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+           (4, 'H2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (4, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+           (4, 'N2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+           (4, 'O2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (5, 'CH4') :                 0 : -9.999818691044685e-09 :          1000000.0 : False : False : NonNegativeReals
+          (5, 'CO2') :                 0 : -9.999797947462962e-09 :          1000000.0 : False : False : NonNegativeReals
+           (5, 'H2') : 4.000000012497011 :     104.00000001249974 : 204.00000001249703 : False : False : NonNegativeReals
+          (5, 'H2O') :                 0 :   -9.9998530202829e-09 :          1000000.0 : False : False : NonNegativeReals
+           (5, 'N2') :                 0 : -9.999640541292318e-09 :          1000000.0 : False : False : NonNegativeReals
+           (5, 'O2') :                 0 : -9.999640541292318e-09 :          1000000.0 : False : False : NonNegativeReals
+          (6, 'CH4') :                 0 : -9.999496739281314e-09 :          1000000.0 : False : False : NonNegativeReals
+          (6, 'CO2') :                 0 :     26.000000007499853 :          1000000.0 : False : False : NonNegativeReals
+           (6, 'H2') :                 0 : -9.999496739095347e-09 :          1000000.0 : False : False : NonNegativeReals
+          (6, 'H2O') :                 0 : -9.999496737046234e-09 :          1000000.0 : False : False : NonNegativeReals
+           (6, 'N2') :                 0 :                51226.0 :          1000000.0 : False : False : NonNegativeReals
+           (6, 'O2') :                 0 :                13747.0 :          1000000.0 : False : False : NonNegativeReals
+          (7, 'CH4') :                 0 :      25.99999999312516 :          1000000.0 : False : False : NonNegativeReals
+          (7, 'CO2') :                 0 : -9.999679049645447e-09 :          1000000.0 : False : False : NonNegativeReals
+           (7, 'H2') :                 0 :  -9.99999941392435e-09 :          1000000.0 : False : False : NonNegativeReals
+          (7, 'H2O') :                 0 :     51.999999998125034 :          1000000.0 : False : False : NonNegativeReals
+           (7, 'N2') :                 0 :  -9.99922258755865e-09 :          1000000.0 : False : False : NonNegativeReals
+           (7, 'O2') :                 0 :  -9.99922258755865e-09 :          1000000.0 : False : False : NonNegativeReals
+          (8, 'CH4') :                 0 :      25.99999999312516 :          1000000.0 : False : False : NonNegativeReals
+          (8, 'CO2') :                 0 : -9.999590689292015e-09 :          1000000.0 : False : False : NonNegativeReals
+           (8, 'H2') :                 0 : -9.999917724033796e-09 :          1000000.0 : False : False : NonNegativeReals
+          (8, 'H2O') :                 0 :     51.999999999062524 :          1000000.0 : False : False : NonNegativeReals
+           (8, 'N2') :                 0 : -9.999190823115887e-09 :          1000000.0 : False : False : NonNegativeReals
+           (8, 'O2') :                 0 : -9.999190823115887e-09 :          1000000.0 : False : False : NonNegativeReals
+          (9, 'CH4') :                 0 :      25.99999999312516 :          1000000.0 : False : False : NonNegativeReals
+          (9, 'CO2') :                 0 :  -9.99953615187382e-09 :          1000000.0 : False : False : NonNegativeReals
+           (9, 'H2') :                 0 : -9.999836622068819e-09 :          1000000.0 : False : False : NonNegativeReals
+          (9, 'H2O') :                 0 :                     52 :          1000000.0 :  True :  True : NonNegativeReals
+           (9, 'N2') :                 0 : -9.999170449771402e-09 :          1000000.0 : False : False : NonNegativeReals
+           (9, 'O2') :                 0 : -9.999170449771402e-09 :          1000000.0 : False : False : NonNegativeReals
+         (10, 'CH4') :                 0 :      25.99999999312516 :          1000000.0 : False : False : NonNegativeReals
+         (10, 'CO2') :                 0 : -9.999510095759534e-09 :          1000000.0 : False : False : NonNegativeReals
+          (10, 'H2') :                 0 : -9.999798272854912e-09 :          1000000.0 : False : False : NonNegativeReals
+         (10, 'H2O') :                 0 : -9.999917545582182e-09 :          1000000.0 : False : False : NonNegativeReals
+          (10, 'N2') :                 0 : -9.999160471643405e-09 :          1000000.0 : False : False : NonNegativeReals
+          (10, 'O2') :                 0 : -9.999160471643405e-09 :          1000000.0 : False : False : NonNegativeReals
+         (11, 'CH4') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (11, 'CO2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (11, 'H2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (11, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (11, 'N2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (11, 'O2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (12, 'CH4') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (12, 'CO2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (12, 'H2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (12, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (12, 'N2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (12, 'O2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (13, 'CH4') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (13, 'CO2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (13, 'H2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (13, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (13, 'N2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (13, 'O2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (14, 'CH4') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (14, 'CO2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (14, 'H2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (14, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (14, 'N2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (14, 'O2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (15, 'CH4') :                 0 : -9.999658481176358e-09 :          1000000.0 : False : False : NonNegativeReals
+         (15, 'CO2') :                 0 :     26.000000003749925 :          1000000.0 : False : False : NonNegativeReals
+          (15, 'H2') :                 0 : -9.999658481158669e-09 :          1000000.0 : False : False : NonNegativeReals
+         (15, 'H2O') :                 0 : -9.999658480963837e-09 :          1000000.0 : False : False : NonNegativeReals
+          (15, 'N2') :                 0 :                51226.0 :          1000000.0 : False : False : NonNegativeReals
+          (15, 'O2') :                 0 :                13747.0 :          1000000.0 : False : False : NonNegativeReals
+         (16, 'CH4') :                 0 : -9.999562472662225e-09 :          1000000.0 : False : False : NonNegativeReals
+         (16, 'CO2') :                 0 :      26.00000000562489 :          1000000.0 : False : False : NonNegativeReals
+          (16, 'H2') :                 0 : -9.999562472548254e-09 :          1000000.0 : False : False : NonNegativeReals
+         (16, 'H2O') :                 0 : -9.999562471292473e-09 :          1000000.0 : False : False : NonNegativeReals
+          (16, 'N2') :                 0 :                51226.0 :          1000000.0 : False : False : NonNegativeReals
+          (16, 'O2') :                 0 :                13747.0 :          1000000.0 : False : False : NonNegativeReals
+         (20, 'CH4') :                 0 : -9.999917545582182e-09 :          1000000.0 : False : False : NonNegativeReals
+         (20, 'CO2') :                 0 : -9.999917545582182e-09 :          1000000.0 : False : False : NonNegativeReals
+          (20, 'H2') :                 0 : -9.999917545582182e-09 :          1000000.0 : False : False : NonNegativeReals
+         (20, 'H2O') :                 0 :                   52.0 :          1000000.0 : False : False : NonNegativeReals
+          (20, 'N2') :                 0 : -9.999917545582182e-09 :          1000000.0 : False : False : NonNegativeReals
+          (20, 'O2') :                 0 : -9.999917545582182e-09 :          1000000.0 : False : False : NonNegativeReals
+         (21, 'CH4') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (21, 'CO2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (21, 'H2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (21, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (21, 'N2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (21, 'O2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (22, 'CH4') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (22, 'CO2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (22, 'H2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (22, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (22, 'N2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (22, 'O2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (23, 'CH4') :                 0 : -9.999743925544877e-09 :          1000000.0 : False : False : NonNegativeReals
+         (23, 'CO2') :                 0 : -9.999743925544877e-09 :          1000000.0 : False : False : NonNegativeReals
+          (23, 'H2') :                 0 : -9.999804748290881e-09 :          1000000.0 : False : False : NonNegativeReals
+         (23, 'H2O') :                 0 :     104.00000002249955 :          1000000.0 : False : False : NonNegativeReals
+          (23, 'N2') :                 0 : -9.999743925544877e-09 :          1000000.0 : False : False : NonNegativeReals
+          (23, 'O2') :                 0 : -9.999803677783794e-09 :          1000000.0 : False : False : NonNegativeReals
+         (24, 'CH4') :                 0 : -9.999883025683504e-09 :          1000000.0 : False : False : NonNegativeReals
+         (24, 'CO2') :                 0 : -9.999830146994833e-09 :          1000000.0 : False : False : NonNegativeReals
+          (24, 'H2') :                 0 :     104.00000001249974 :          1000000.0 : False : False : NonNegativeReals
+         (24, 'H2O') :                 0 : -9.999901866696753e-09 :          1000000.0 : False : False : NonNegativeReals
+          (24, 'N2') :                 0 :  -9.99970424266325e-09 :          1000000.0 : False : False : NonNegativeReals
+          (24, 'O2') :                 0 :  -9.99970424266325e-09 :          1000000.0 : False : False : NonNegativeReals
+         (25, 'CH4') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (25, 'CO2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (25, 'H2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (25, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (25, 'N2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (25, 'O2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (26, 'CH4') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (26, 'CO2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (26, 'H2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (26, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (26, 'N2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (26, 'O2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (27, 'CH4') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (27, 'CO2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (27, 'H2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (27, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (27, 'N2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (27, 'O2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (28, 'CH4') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (28, 'CO2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (28, 'H2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (28, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (28, 'N2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (28, 'O2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (29, 'CH4') :                 0 : -9.999690864716405e-09 :          1000000.0 : False : False : NonNegativeReals
+         (29, 'CO2') :                 0 : -9.999690864716405e-09 :          1000000.0 : False : False : NonNegativeReals
+          (29, 'H2') :                 0 : -9.999917545582182e-09 :          1000000.0 : False : False : NonNegativeReals
+         (29, 'H2O') :                 0 : -9.999917545582182e-09 :          1000000.0 : False : False : NonNegativeReals
+          (29, 'N2') :                 0 : -9.999690864716405e-09 :          1000000.0 : False : False : NonNegativeReals
+          (29, 'O2') :                 0 :      52.00000000124997 :          1000000.0 : False : False : NonNegativeReals
+         (51, 'CH4') :                 0 : -9.999669733130937e-09 :          1000000.0 : False : False : NonNegativeReals
+         (51, 'CO2') :                 0 : -9.999795353286946e-09 :          1000000.0 : False : False : NonNegativeReals
+          (51, 'H2') :                 0 :     104.00000001249974 :          1000000.0 : False : False : NonNegativeReals
+         (51, 'H2O') :                 0 : -9.999776079511456e-09 :          1000000.0 : False : False : NonNegativeReals
+          (51, 'N2') :                 0 : -9.998794387797698e-09 :          1000000.0 : False : False : NonNegativeReals
+          (51, 'O2') :                 0 : -9.998794387797698e-09 :          1000000.0 : False : False : NonNegativeReals
+         (52, 'CH4') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (52, 'CO2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (52, 'H2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (52, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (52, 'N2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (52, 'O2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (61, 'CH4') :                 0 :  -9.99945545620857e-09 :          1000000.0 : False : False : NonNegativeReals
+         (61, 'CO2') :                 0 :     26.000000009374816 :          1000000.0 : False : False : NonNegativeReals
+          (61, 'H2') :                 0 : -9.999455455976795e-09 :          1000000.0 : False : False : NonNegativeReals
+         (61, 'H2O') :                 0 :  -9.99945545342289e-09 :          1000000.0 : False : False : NonNegativeReals
+          (61, 'N2') :                 0 :                51226.0 :          1000000.0 : False : False : NonNegativeReals
+          (61, 'O2') :                 0 :                13747.0 :          1000000.0 : False : False : NonNegativeReals
+         (62, 'CH4') :                 0 :  -9.99943549316351e-09 :          1000000.0 : False : False : NonNegativeReals
+         (62, 'CO2') :                 0 : -9.999917545582182e-09 :          1000000.0 : False : False : NonNegativeReals
+          (62, 'H2') :                 0 : -9.999435492909676e-09 :          1000000.0 : False : False : NonNegativeReals
+         (62, 'H2O') :                 0 : -9.999435490112717e-09 :          1000000.0 : False : False : NonNegativeReals
+          (62, 'N2') :                 0 :                51226.0 :          1000000.0 : False : False : NonNegativeReals
+          (62, 'O2') :                 0 :                13747.0 :          1000000.0 : False : False : NonNegativeReals
+         (63, 'CH4') :                 0 : -9.999908221746556e-09 :          1000000.0 : False : False : NonNegativeReals
+         (63, 'CO2') :                 0 :     26.000000011249774 :          1000000.0 : False : False : NonNegativeReals
+          (63, 'H2') :                 0 : -9.999932400970834e-09 :          1000000.0 : False : False : NonNegativeReals
+         (63, 'H2O') :                 0 : -9.999939292644029e-09 :          1000000.0 : False : False : NonNegativeReals
+          (63, 'N2') :                 0 : -9.999704356134268e-09 :          1000000.0 : False : False : NonNegativeReals
+          (63, 'O2') :                 0 : -9.999704356134268e-09 :          1000000.0 : False : False : NonNegativeReals
+         (64, 'CH4') :                 0 :     500000.00004999497 :          1000000.0 : False : False : NonNegativeReals
+         (64, 'CO2') :                 0 :     500000.00004999497 :          1000000.0 : False : False : NonNegativeReals
+          (64, 'H2') :                 0 :     500000.00004999497 :          1000000.0 : False : False : NonNegativeReals
+         (64, 'H2O') :                 0 :     500000.00004999497 :          1000000.0 : False : False : NonNegativeReals
+          (64, 'N2') :                 0 :     500000.00004999497 :          1000000.0 : False : False : NonNegativeReals
+          (64, 'O2') :                 0 :     500000.00004999497 :          1000000.0 : False : False : NonNegativeReals
+         (65, 'CH4') :                 0 :     500000.00004999497 :          1000000.0 : False : False : NonNegativeReals
+         (65, 'CO2') :                 0 : -9.999917545582182e-09 :          1000000.0 : False : False : NonNegativeReals
+          (65, 'H2') :                 0 :     500000.00004999497 :          1000000.0 : False : False : NonNegativeReals
+         (65, 'H2O') :                 0 :     500000.00004999497 :          1000000.0 : False : False : NonNegativeReals
+          (65, 'N2') :                 0 :     500000.00004999497 :          1000000.0 : False : False : NonNegativeReals
+          (65, 'O2') :                 0 :     500000.00004999497 :          1000000.0 : False : False : NonNegativeReals
+         (66, 'CH4') :                 0 : -9.999917545582182e-09 :          1000000.0 : False : False : NonNegativeReals
+         (66, 'CO2') :                 0 :     500000.00004999497 :          1000000.0 : False : False : NonNegativeReals
+          (66, 'H2') :                 0 : -9.999917545582182e-09 :          1000000.0 : False : False : NonNegativeReals
+         (66, 'H2O') :                 0 : -9.999917545582182e-09 :          1000000.0 : False : False : NonNegativeReals
+          (66, 'N2') :                 0 : -9.999917545582182e-09 :          1000000.0 : False : False : NonNegativeReals
+          (66, 'O2') :                 0 : -9.999917545582182e-09 :          1000000.0 : False : False : NonNegativeReals
+         (91, 'CH4') :                 0 : -9.999861719494816e-09 :          1000000.0 : False : False : NonNegativeReals
+         (91, 'CO2') :                 0 : -9.999861719494816e-09 :          1000000.0 : False : False : NonNegativeReals
+          (91, 'H2') :                 0 : -9.999861719494816e-09 :          1000000.0 : False : False : NonNegativeReals
+         (91, 'H2O') :                 0 :     15.756373545811737 :          1000000.0 : False : False : NonNegativeReals
+          (91, 'N2') :                 0 : -9.999861719494816e-09 :          1000000.0 : False : False : NonNegativeReals
+          (91, 'O2') :                 0 : -9.999861719494816e-09 :          1000000.0 : False : False : NonNegativeReals
+         (92, 'CH4') :                 0 :                      0 :          1000000.0 : False :  True : NonNegativeReals
+         (92, 'CO2') :                 0 :                      0 :          1000000.0 : False :  True : NonNegativeReals
+          (92, 'H2') :                 0 :                      0 :          1000000.0 : False :  True : NonNegativeReals
+         (92, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (92, 'N2') :                 0 :                      0 :          1000000.0 : False :  True : NonNegativeReals
+          (92, 'O2') :                 0 :                      0 :          1000000.0 : False :  True : NonNegativeReals
+         (93, 'CH4') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (93, 'CO2') :                 0 :                      0 :          1000000.0 : False :  True : NonNegativeReals
+          (93, 'H2') :                 0 :                      0 :          1000000.0 : False :  True : NonNegativeReals
+         (93, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (93, 'N2') :                 0 :                      0 :          1000000.0 : False :  True : NonNegativeReals
+          (93, 'O2') :                 0 :                      0 :          1000000.0 : False :  True : NonNegativeReals
+         (94, 'CH4') :                 0 : -9.999803677745358e-09 :          1000000.0 : False : False : NonNegativeReals
+         (94, 'CO2') :                 0 : -9.999803677745358e-09 :          1000000.0 : False : False : NonNegativeReals
+          (94, 'H2') :                 0 : -9.999803677745358e-09 :          1000000.0 : False : False : NonNegativeReals
+         (94, 'H2O') :                 0 :     15.756373545811737 :          1000000.0 : False : False : NonNegativeReals
+          (94, 'N2') :                 0 : -9.999803677745358e-09 :          1000000.0 : False : False : NonNegativeReals
+          (94, 'O2') :                 0 : -9.999803677745358e-09 :          1000000.0 : False : False : NonNegativeReals
+         (95, 'CH4') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (95, 'CO2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (95, 'H2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (95, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (95, 'N2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (95, 'O2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (96, 'CH4') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (96, 'CO2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (96, 'H2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (96, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (96, 'N2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+          (96, 'O2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+        (635, 'CH4') :                 0 : -9.999788186436682e-09 :          1000000.0 : False : False : NonNegativeReals
+        (635, 'CO2') :                 0 :     26.000000003124946 :          1000000.0 : False : False : NonNegativeReals
+         (635, 'H2') :                 0 :      104.0000000024998 :          1000000.0 : False : False : NonNegativeReals
+        (635, 'H2O') :                 0 : -9.999814410129587e-09 :          1000000.0 : False : False : NonNegativeReals
+         (635, 'N2') :                 0 : -9.999683541659724e-09 :          1000000.0 : False : False : NonNegativeReals
+         (635, 'O2') :                 0 : -9.999683541659724e-09 :          1000000.0 : False : False : NonNegativeReals
+        (636, 'CH4') :                 0 :      25.99999999312516 :          1000000.0 : False : False : NonNegativeReals
+        (636, 'CO2') :                 0 : -9.999757706563821e-09 :          1000000.0 : False : False : NonNegativeReals
+         (636, 'H2') :                 0 : -9.999984110947544e-09 :          1000000.0 : False : False : NonNegativeReals
+        (636, 'H2O') :                 0 :      51.99999999718756 :          1000000.0 : False : False : NonNegativeReals
+         (636, 'N2') :                 0 : -9.999267982867803e-09 :          1000000.0 : False : False : NonNegativeReals
+         (636, 'O2') :                 0 : -9.999267982867803e-09 :          1000000.0 : False : False : NonNegativeReals
+        (665, 'CH4') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+        (665, 'CO2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (665, 'H2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+        (665, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (665, 'N2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (665, 'O2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+        (666, 'CH4') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+        (666, 'CO2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (666, 'H2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+        (666, 'H2O') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (666, 'N2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+         (666, 'O2') :                 0 :                   None :          1000000.0 : False :  True : NonNegativeReals
+    T : Size=44, Index=K
+        Key : Lower : Value              : Upper : Fixed : Stale : Domain
+          1 :     0 :               None :   800 : False :  True : NonNegativeReals
+          2 :     0 :               None :   800 : False :  True : NonNegativeReals
+          3 :     0 :               None :   800 : False :  True : NonNegativeReals
+          4 :     0 :               None :   800 : False :  True : NonNegativeReals
+          5 : 600.0 :              700.0 :   800 : False : False : NonNegativeReals
+          6 :     0 :               None :   800 : False :  True : NonNegativeReals
+          7 :     0 :              350.0 :   800 : False : False : NonNegativeReals
+          8 :     0 : 169.99999830000718 :   800 : False : False : NonNegativeReals
+          9 :     0 :               None :   800 : False :  True : NonNegativeReals
+         10 :     0 :               None :   800 : False :  True : NonNegativeReals
+         11 :     0 :               None :   800 : False :  True : NonNegativeReals
+         12 :     0 :               None :   800 : False :  True : NonNegativeReals
+         13 :     0 :               None :   800 : False :  True : NonNegativeReals
+         14 :     0 :               None :   800 : False :  True : NonNegativeReals
+         15 :     0 :               None :   800 : False :  True : NonNegativeReals
+         16 :     0 :               None :   800 : False :  True : NonNegativeReals
+         20 :     0 :               None :   800 : False :  True : NonNegativeReals
+         21 :     0 :               None :   800 : False :  True : NonNegativeReals
+         22 :     0 :               None :   800 : False :  True : NonNegativeReals
+         23 :     0 :               None :   800 : False :  True : NonNegativeReals
+         24 :     0 :                700 :   800 :  True :  True : NonNegativeReals
+         25 :     0 :               None :   800 : False :  True : NonNegativeReals
+         26 :     0 :               None :   800 : False :  True : NonNegativeReals
+         27 :     0 :               None :   800 : False :  True : NonNegativeReals
+         28 :     0 :               None :   800 : False :  True : NonNegativeReals
+         29 :     0 :               None :   800 : False :  True : NonNegativeReals
+         51 :     0 :               None :   800 : False :  True : NonNegativeReals
+         52 :     0 :               None :   800 : False :  True : NonNegativeReals
+         61 :     0 :               None :   800 : False :  True : NonNegativeReals
+         62 :     0 :               None :   800 : False :  True : NonNegativeReals
+         63 :     0 :               None :   800 : False :  True : NonNegativeReals
+         64 :     0 :               None :   800 : False :  True : NonNegativeReals
+         65 :     0 :               None :   800 : False :  True : NonNegativeReals
+         66 :     0 :               None :   800 : False :  True : NonNegativeReals
+         91 :     0 :               None :   800 : False :  True : NonNegativeReals
+         92 :     0 :               None :   800 : False :  True : NonNegativeReals
+         93 :     0 :               None :   800 : False :  True : NonNegativeReals
+         94 :     0 :               None :   800 : False :  True : NonNegativeReals
+         95 :     0 :               None :   800 : False :  True : NonNegativeReals
+         96 :     0 :               None :   800 : False :  True : NonNegativeReals
+        635 :     0 :               None :   800 : False :  True : NonNegativeReals
+        636 :     0 :                350 :   800 :  True :  True : NonNegativeReals
+        665 :     0 :               None :   800 : False :  True : NonNegativeReals
+        666 :     0 :               None :   800 : False :  True : NonNegativeReals
+    T_air_Out : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :    35 : 40.00000039999181 :    40 : False : False : NonNegativeReals
+    LMTD_AC : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     0 : 53.25345565332968 :  None : False : False : NonNegativeReals
+    Q_air : Size=1, Index=None
+        Key  : Lower             : Value             : Upper             : Fixed : Stale : Domain
+        None : 334.1361055084935 : 434.1361055084934 : 534.1361055084935 : False : False : NonNegativeReals
+    N_fan3 : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     1 : 6.008531245715638 :    20 : False : False : NonNegativeReals
+    N_fan : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     1 : 6.008531245715638 :   100 : False : False : NonNegativeReals
+    Q_fan3 : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 434.13610550846846 :  None : False : False : NonNegativeReals
+    Q_fan3e : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None : 1e-05 : 72.25328250028288 :  None : False : False : NonNegativeReals
+    DP_fan3 : Size=1, Index=None
+        Key  : Lower             : Value             : Upper : Fixed : Stale : Domain
+        None : 522.5589435417271 : 522.5589383161405 :  2000 : False : False :  Reals
+    power_fan3 : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     0 : 420.1142636652024 :  None : False : False : NonNegativeReals
+    D : Size=1, Index=None
+        Key  : Lower : Value            : Upper : Fixed : Stale : Domain
+        None :   0.5 : 4.00000003999999 :     4 : False : False : NonNegativeReals
+    L : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     1 : 5.000000049999976 :     5 : False : False : NonNegativeReals
+    DP : Size=1, Index=None
+        Key  : Lower : Value              : Upper             : Fixed : Stale : Domain
+        None :     0 : 174.38870436527574 : 522.5589435417271 : False : False : NonNegativeReals
+    Q_DFM : Size=1, Index=None
+        Key  : Lower : Value                 : Upper              : Fixed : Stale : Domain
+        None :     0 : 8.181818188711961e-09 : 100.00000004011807 : False : False : NonNegativeReals
+    t_ads : Size=1, Index=None
+        Key  : Lower : Value             : Upper             : Fixed : Stale : Domain
+        None :   500 : 499.9999950000063 : 599.9999950000174 : False : False :  Reals
+    Q_H2 : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     0 : 577.0000000693495 :  None : False : False : NonNegativeReals
+    Q_ex : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     0 : 599976.0054495374 :  None : False : False : NonNegativeReals
+    Q_LP : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     0 : 599976.0054495374 :  None : False : False : NonNegativeReals
+    A_Boiler : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :    10 : 65.04217725294428 :  1000 : False : False : NonNegativeReals
+    N_Boiler : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     1 : 0.9999999900003332 :    10 : False : False : NonNegativeReals
+    A_Aircooler : Size=1, Index=None
+        Key  : Lower  : Value              : Upper : Fixed : Stale : Domain
+        None : 0.0001 : 185.72609730415454 :  None : False : False :  Reals
+    BHP_Aircooler : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     0 : 6.214676171945251 :  None : False : False : NonNegativeReals
+    Q_Aircooler : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     0 : 2547066.386143377 :  None : False : False : NonNegativeReals
+    Z_AC : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 0.8965517229250943 :  None : False : False : NonNegativeReals
+    Y_AC : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 2.0843312357363986 :  None : False : False : NonNegativeReals
+    F_A : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     0 : 83.37324942945594 :  None : False : False : NonNegativeReals
+    F_V : Size=1, Index=None
+        Key  : Lower : Value : Upper : Fixed : Stale : Domain
+        None :   400 : 550.0 :   650 : False : False : NonNegativeReals
+    A_AC_av : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     0 : 523.5840064169832 :  None : False : False : NonNegativeReals
+    DP_AC : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     0 : 0.397946390156841 :  None : False : False : NonNegativeReals
+    S_Vessel : Size=1, Index=None
+        Key  : Lower : Value             : Upper  : Fixed : Stale : Domain
+        None :   160 : 338.8632396196878 : 250000 : False : False : NonNegativeReals
+    D_Vessel : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 0.6680086203533079 :  None : False : False : NonNegativeReals
+    L_Vessel : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 2.6720344814132315 :  None : False : False : NonNegativeReals
+    CAPEX : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 1427187.4760293304 :  None : False : False : NonNegativeReals
+    OPEX : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 1641969.4346517923 :  None : False : False : NonNegativeReals
+    OPEX_SOEL : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 3115738.4145083805 :  None : False : False : NonNegativeReals
+    CAPEX_SOEL : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 32747866.670602623 :  None : False : False : NonNegativeReals
+    Ce_fan3 : Size=1, Index=None
+        Key  : Lower : Value            : Upper : Fixed : Stale : Domain
+        None :     0 : 444168.427874232 :  None : False : False : NonNegativeReals
+    Ce_fan3_update : Size=1, Index=None
+        Key  : Lower : Value            : Upper : Fixed : Stale : Domain
+        None :     0 : 705029.250594019 :  None : False : False : NonNegativeReals
+    CAPEX_FAN : Size=1, Index=None
+        Key  : Lower : Value            : Upper : Fixed : Stale : Domain
+        None :     0 : 705029.250594019 :  None : False : False : NonNegativeReals
+    OPEX_FAN : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 166365.24841142015 :  None : False : False : NonNegativeReals
+    Ce_Boiler : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 30895.914956828343 :  None : False : False : NonNegativeReals
+    CAPEX_Boiler : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     0 : 54554.29362594763 :  None : False : False : NonNegativeReals
+    Ce_Aircooler : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     0 : 29754.03592508577 :  None : False : False : NonNegativeReals
+    CAPEX_Aircooler : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :     0 : 47228.62845251709 :  None : False : False : NonNegativeReals
+    OPEX_Aircooler : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 1835.2063863462488 :  None : False : False : NonNegativeReals
+    Ce_PVessel : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 14101.274026378123 :  None : False : False : NonNegativeReals
+    CAPEX_PVessel : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 24899.247839396336 :  None : False : False : NonNegativeReals
+    CAPEX_Separator : Size=1, Index=None
+        Key  : Lower : Value                : Upper : Fixed : Stale : Domain
+        None :     0 : 8.18343455568608e-09 :  None : False : False : NonNegativeReals
+    Profit : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 1879229.1583102539 :  None : False : False : NonNegativeReals
+    Profit_Product : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 1853280.0153509695 :  None : False : False : NonNegativeReals
+    Profit_Steam : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :     0 : 25949.142958275224 :  None : False : False : NonNegativeReals
+    trf_out : Size=10, Index={DFM_Weight, S_react, N_react, q_dfm, Q_reaction, v, DP, CAPEX_DFM, OPEX_DFM, Ce_react}
+        Key        : Lower : Value                  : Upper : Fixed : Stale : Domain
+         CAPEX_DFM :  None :      23512996.06076199 :  None : False : False :  Reals
+          Ce_react :  None :      7589530.782253149 :  None : False : False :  Reals
+        DFM_Weight :  None :      26677.12706868019 :  None : False : False :  Reals
+                DP :  None :      522.5589383161405 :  None : False : False :  Reals
+           N_react :  None :      5.231487167822471 :  None : False : False :  Reals
+          OPEX_DFM :  None :  4.090909094355977e-10 :  None : False : False :  Reals
+        Q_reaction :  None :     1184.4444449569341 :  None : False : False :  Reals
+           S_react :  None :     62.831854956750846 :  None : False : False :  Reals
+             q_dfm :  None : 0.00013536356695175215 :  None : False : False :  Reals
+                 v :  None :      6.603753728904132 :  None : False : False :  Reals
+
+  Objectives:
+    TAC : Size=1, Index=None, Active=True
+        Key  : Active : Value
+        None :   True : 4259084.663051358
+
+  Constraints:
+    Initial_Condition1 : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :   0.0 :  -9.99973385093925e-09 :   0.0
+        CO2 :   0.0 : 1.8749624075553584e-09 :   0.0
+         H2 :   0.0 : -9.999733851058206e-09 :   0.0
+        H2O :   0.0 : -9.999733852369066e-09 :   0.0
+         N2 :   0.0 :                    0.0 :   0.0
+         O2 :   0.0 :                    0.0 :   0.0
+    Initial_Condition2 : Size=5
+        Key : Lower : Body                   : Upper
+        CH4 :   0.0 :  -9.99981926425596e-09 :   0.0
+        CO2 :   0.0 :  -9.99981926425596e-09 :   0.0
+         H2 :   0.0 : -9.999862442195182e-09 :   0.0
+         N2 :   0.0 :  -9.99981926425596e-09 :   0.0
+         O2 :   0.0 : -9.999861719512187e-09 :   0.0
+    DFM_Adsorption1 : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :   0.0 : 1.9963045060691296e-14 :   0.0
+        CO2 :   0.0 : -9.999917545582182e-09 :   0.0
+         H2 :   0.0 :  1.996306711828951e-14 :   0.0
+        H2O :   0.0 :  1.996331017207762e-14 :   0.0
+         N2 :   0.0 :                    0.0 :   0.0
+         O2 :   0.0 :                    0.0 :   0.0
+    DFM_Adsorption2 : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :   0.0 : -9.999908221746556e-09 :   0.0
+        CO2 :   0.0 : 1.8749588548416796e-09 :   0.0
+         H2 :   0.0 : -9.999932400970834e-09 :   0.0
+        H2O :   0.0 : -9.999939292644029e-09 :   0.0
+         N2 :   0.0 : -9.999704356134268e-09 :   0.0
+         O2 :   0.0 : -9.999704356134268e-09 :   0.0
+    VTSA_Adsorption1 : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :   0.0 :                    0.0 :   0.0
+        CO2 :   0.0 : -9.999917545582182e-09 :   0.0
+         H2 :   0.0 :                    0.0 :   0.0
+        H2O :   0.0 :                    0.0 :   0.0
+         N2 :   0.0 :                    0.0 :   0.0
+         O2 :   0.0 :                    0.0 :   0.0
+    VTSA_Adsorption2 : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :   0.0 : -9.999917545582182e-09 :   0.0
+        CO2 :   0.0 :                    0.0 :   0.0
+         H2 :   0.0 : -9.999917545582182e-09 :   0.0
+        H2O :   0.0 : -9.999917545582182e-09 :   0.0
+         N2 :   0.0 : -9.999917545582182e-09 :   0.0
+         O2 :   0.0 : -9.999917545582182e-09 :   0.0
+    Steam_Composition : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :   0.0 : -9.999861719494816e-09 :   0.0
+        CO2 :   0.0 : -9.999861719494816e-09 :   0.0
+         H2 :   0.0 : -9.999861719494816e-09 :   0.0
+        H2O :  None :                    0.0 :   0.0
+         N2 :   0.0 : -9.999861719494816e-09 :   0.0
+         O2 :   0.0 : -9.999861719494816e-09 :   0.0
+    Flash_Sparator1 : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :   0.0 : -9.999917545582182e-09 :   0.0
+        CO2 :   0.0 : -9.999917545582182e-09 :   0.0
+         H2 :   0.0 : -9.999917545582182e-09 :   0.0
+        H2O :   0.0 :                    0.0 :   0.0
+         N2 :   0.0 : -9.999917545582182e-09 :   0.0
+         O2 :   0.0 : -9.999917545582182e-09 :   0.0
+    Flash_Sparator3 : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :   0.0 :                    0.0 :   0.0
+        CO2 :   0.0 : 2.6056114285028064e-14 :   0.0
+         H2 :   0.0 :     3.834921390692e-14 :   0.0
+        H2O :   0.0 : -9.999917545582182e-09 :   0.0
+         N2 :   0.0 :   9.97812799617869e-15 :   0.0
+         O2 :   0.0 :   9.97812799617869e-15 :   0.0
+    constn01 : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :   0.0 : -7.533871108239986e-14 :   0.0
+        CO2 :   0.0 : -7.533871108239986e-14 :   0.0
+         H2 :   0.0 : -5.769390430112043e-14 :   0.0
+        H2O :   0.0 :                    0.0 :   0.0
+         N2 :   0.0 : -7.533871108239986e-14 :   0.0
+         O2 :   0.0 :  -5.80417283935317e-14 :   0.0
+    constn02 : Size=6
+        Key : Lower : Body                  : Upper
+        CH4 :   0.0 : 6.433463881910694e-14 :   0.0
+        CO2 :   0.0 : 3.219953187070548e-14 :   0.0
+         H2 :   0.0 :                   0.0 :   0.0
+        H2O :   0.0 : 4.884641385260841e-14 :   0.0
+         N2 :   0.0 : 6.370137093155033e-14 :   0.0
+         O2 :   0.0 : 6.370137093155033e-14 :   0.0
+    constn04 : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :  None : -9.999743925544877e-09 : 10000000000.0
+        CO2 :  None : -9.999743925544877e-09 : 10000000000.0
+         H2 :  None : -9.999804748290881e-09 : 10000000000.0
+        H2O :  None :     104.00000002249955 : 10000000000.0
+         N2 :  None : -9.999743925544877e-09 : 10000000000.0
+         O2 :  None : -9.999803677783794e-09 : 10000000000.0
+    constT01 : Size=6
+        Key : Lower : Body : Upper
+        CH4 :   0.0 :  0.0 :   0.0
+        CO2 :   0.0 :  0.0 :   0.0
+         H2 :   0.0 :  0.0 :   0.0
+        H2O :   0.0 :  0.0 :   0.0
+         N2 :   0.0 :  0.0 :   0.0
+         O2 :   0.0 :  0.0 :   0.0
+    constT03 : Size=6
+        Key : Lower : Body : Upper
+        CH4 : 700.0 :  700 : 700.0
+        CO2 : 700.0 :  700 : 700.0
+         H2 : 700.0 :  700 : 700.0
+        H2O : 700.0 :  700 : 700.0
+         N2 : 700.0 :  700 : 700.0
+         O2 : 700.0 :  700 : 700.0
+    constn07 : Size=6
+        Key : Lower : Body                    : Upper
+        CH4 :   0.0 :  -7.536976289169282e-14 :   0.0
+        CO2 :   0.0 : -1.8749624075553584e-09 :   0.0
+         H2 :   0.0 :  -7.536989953696693e-14 :   0.0
+        H2O :   0.0 :  -7.537140522902054e-14 :   0.0
+         N2 :   0.0 :                     0.0 :   0.0
+         O2 :   0.0 :                     0.0 :   0.0
+    constn10 : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :  None : -9.999658481176358e-09 : 10000000000.0
+        CO2 :  None :     26.000000003749925 : 10000000000.0
+         H2 :  None : -9.999658481158669e-09 : 10000000000.0
+        H2O :  None : -9.999658480963837e-09 : 10000000000.0
+         N2 :  None :                51226.0 : 10000000000.0
+         O2 :  None :                13747.0 : 10000000000.0
+    constn14 : Size=6
+        Key : Lower : Body                  : Upper
+        CH4 :   0.0 : 9.600851413281824e-14 :   0.0
+        CO2 :   0.0 : 1.874965960269037e-09 :   0.0
+         H2 :   0.0 : 9.600861041498718e-14 :   0.0
+        H2O :   0.0 : 9.600967136345829e-14 :   0.0
+         N2 :   0.0 :                   0.0 :   0.0
+         O2 :   0.0 :                   0.0 :   0.0
+    constn15 : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :   0.0 :  6.573338091110646e-14 :   0.0
+        CO2 :   0.0 : 1.8749624075553584e-09 :   0.0
+         H2 :   0.0 :  6.573345290725262e-14 :   0.0
+        H2O :   0.0 :   6.57342462396345e-14 :   0.0
+         N2 :   0.0 :                    0.0 :   0.0
+         O2 :   0.0 :                    0.0 :   0.0
+    constn16 : Size=6
+        Key : Lower : Body                    : Upper
+        CH4 :   0.0 :  -4.128307274296556e-14 :   0.0
+        CO2 :   0.0 : -1.8749624075553584e-09 :   0.0
+         H2 :   0.0 : -4.1283118552227886e-14 :   0.0
+        H2O :   0.0 :  -4.128362334415978e-14 :   0.0
+         N2 :   0.0 :                     0.0 :   0.0
+         O2 :   0.0 :                     0.0 :   0.0
+    constn17 : Size=6
+        Key : Lower : Body                    : Upper
+        CH4 :   0.0 :                     0.0 :   0.0
+        CO2 :   0.0 :    7.86569183742904e-14 :   0.0
+         H2 :   0.0 : -1.5302976806217375e-14 :   0.0
+        H2O :   0.0 :    9.37475874707161e-10 :   0.0
+         N2 :   0.0 :  4.5395309152627766e-14 :   0.0
+         O2 :   0.0 :  4.5395309152627766e-14 :   0.0
+    constn18 : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :  None :  -9.99945545620857e-09 : 10000000000.0
+        CO2 :  None :     26.000000009374816 : 10000000000.0
+         H2 :  None : -9.999455455976795e-09 : 10000000000.0
+        H2O :  None :  -9.99945545342289e-09 : 10000000000.0
+         N2 :  None :                51226.0 : 10000000000.0
+         O2 :  None :                13747.0 : 10000000000.0
+    constn21 : Size=6
+        Key : Lower : Body                  : Upper
+        CH4 :   0.0 : 9.999789768440812e-09 :   0.0
+        CO2 :   0.0 : 1.874965960269037e-09 :   0.0
+         H2 :   0.0 :                   0.0 :   0.0
+        H2O :   0.0 : 9.999900962025898e-09 :   0.0
+         N2 :   0.0 : 9.998815202272242e-09 :   0.0
+         O2 :   0.0 : 9.998815202272242e-09 :   0.0
+    constn23 : Size=6
+        Key : Lower : Body                    : Upper
+        CH4 :   0.0 : -1.4895791374809418e-13 :   0.0
+        CO2 :   0.0 : -2.5941760156960828e-15 :   0.0
+         H2 :   0.0 :                     0.0 :   0.0
+        H2O :   0.0 :  -7.694077144423198e-14 :   0.0
+         N2 :   0.0 :   -8.46153494620607e-13 :   0.0
+         O2 :   0.0 :   -8.46153494620607e-13 :   0.0
+    constn24 : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :  None : -9.999669733130937e-09 : 10000000000.0
+        CO2 :  None : -9.999795353286946e-09 : 10000000000.0
+         H2 :  None :     104.00000001249974 : 10000000000.0
+        H2O :  None : -9.999776079511456e-09 : 10000000000.0
+         N2 :  None : -9.998794387797698e-09 : 10000000000.0
+         O2 :  None : -9.998794387797698e-09 : 10000000000.0
+    constn26 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constn27 : Size=1
+        Key  : Lower : Body : Upper
+        None : 350.0 :  350 : 350.0
+    constn29 : Size=6
+        Key : Lower : Body                    : Upper
+        CH4 :   0.0 :                     0.0 :   0.0
+        CO2 :   0.0 :  -8.836035343181892e-14 :   0.0
+         H2 :   0.0 :  -8.168989055381487e-14 :   0.0
+        H2O :   0.0 :  -9.374900855618762e-10 :   0.0
+         N2 :   0.0 : -3.1764442763114357e-14 :   0.0
+         O2 :   0.0 : -3.1764442763114357e-14 :   0.0
+    constn30 : Size=1
+        Key  : Lower : Body               : Upper
+        None :  None : 15.756373545811737 : 10000000000.0
+    constn34 : Size=6
+        Key : Lower : Body                  : Upper
+        CH4 :   0.0 : 5.804174945851318e-14 :   0.0
+        CO2 :   0.0 : 5.804174945851318e-14 :   0.0
+         H2 :   0.0 : 5.804174945851318e-14 :   0.0
+        H2O :   0.0 :                   0.0 :   0.0
+         N2 :   0.0 : 5.804174945851318e-14 :   0.0
+         O2 :   0.0 : 5.804174945851318e-14 :   0.0
+    constn40 : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :   0.0 :                    0.0 :   0.0
+        CO2 :   0.0 : -5.453741819578072e-14 :   0.0
+         H2 :   0.0 : -8.110196497685386e-14 :   0.0
+        H2O :   0.0 :  -9.37475874707161e-10 :   0.0
+         N2 :   0.0 : -2.037334448514905e-14 :   0.0
+         O2 :   0.0 : -2.037334448514905e-14 :   0.0
+    SOEL : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :   0.0 : -9.999883025683504e-09 :   0.0
+        CO2 :   0.0 : -9.999830146994833e-09 :   0.0
+         H2 :   0.0 :                    0.0 :   0.0
+        H2O :   0.0 : -9.999901866696753e-09 :   0.0
+         N2 :   0.0 :  -9.99970424266325e-09 :   0.0
+         O2 :   0.0 :  -9.99970424266325e-09 :   0.0
+    SOEL2 : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :   0.0 : 5.3060828472046445e-14 :   0.0
+        CO2 :   0.0 : 5.3060828472046445e-14 :   0.0
+         H2 :   0.0 : -9.999917545582182e-09 :   0.0
+        H2O :   0.0 : -9.999917545582182e-09 :   0.0
+         N2 :   0.0 : 5.3060828472046445e-14 :   0.0
+         O2 :   0.0 :                    0.0 :   0.0
+    constSOEL02 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constSOEL03 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constAI03 : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : -5.684341886080802e-14 :   0.0
+    constAI06 : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : 1.4210854715202004e-14 :   0.0
+    constAI13 : Size=1
+        Key  : Lower : Body              : Upper
+        None :  None : 72.25328250028288 : 377.7778
+    constAI16 : Size=1
+        Key  : Lower : Body              : Upper
+        None :  None : 522.5589383161405 : 4000.0
+    constAI29 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constAI30 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constAI33 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constAI34 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constAI35 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constAI36 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constDFM01 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constTRF_blackbox : Size=10
+        Key        : Lower : Body : Upper
+         CAPEX_DFM :   0.0 :  0.0 :   0.0
+          Ce_react :   0.0 :  0.0 :   0.0
+        DFM_Weight :   0.0 :  0.0 :   0.0
+                DP :   0.0 :  0.0 :   0.0
+           N_react :   0.0 :  0.0 :   0.0
+          OPEX_DFM :   0.0 :  0.0 :   0.0
+        Q_reaction :   0.0 :  0.0 :   0.0
+           S_react :   0.0 :  0.0 :   0.0
+             q_dfm :   0.0 :  0.0 :   0.0
+                 v :   0.0 :  0.0 :   0.0
+    constDFM05 : Size=1
+        Key  : Lower : Body               : Upper
+        None :  None : -348.1702339508647 :   0.0
+    constDFM06 : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :   0.0 :  3.552713678800501e-15 :   0.0
+        CO2 :   0.0 : -9.999757706563821e-09 :   0.0
+         H2 :   0.0 : -4.599825906417185e-15 :   0.0
+        H2O :   0.0 :  9.374829801345186e-10 :   0.0
+         N2 :   0.0 :  4.155587919216948e-13 :   0.0
+         O2 :   0.0 :  4.155587919216948e-13 :   0.0
+    constDFM17 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constSTG02 : Size=1
+        Key  : Lower : Body               : Upper
+        None : 170.0 : 169.99999830000718 :  None
+    constSTG04 : Size=1
+        Key  : Lower : Body                    : Upper
+        None :   0.0 : -1.1641532182693481e-10 :   0.0
+    constSTG05 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constSTG06 : Size=1
+        Key  : Lower : Body              : Upper
+        None :  None : 599976.0054495374 : 10000000000.0
+    constSTG09 : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : 1.7763568394002505e-15 :   0.0
+    constHX02 : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : -7.275957614183426e-12 :   0.0
+    constHX03 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constHX05 : Size=1
+        Key  : Lower : Body  : Upper
+        None : 170.0 : 350.0 :  None
+    constHX04 : Size=1
+        Key  : Lower : Body                    : Upper
+        None :   0.0 : -1.4210854715202004e-14 :   0.0
+    constAC01 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constAC02 : Size=1
+        Key  : Lower : Body                  : Upper
+        None :   0.0 : 7.275957614183426e-12 :   0.0
+    constAC03 : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : 2.2737367544323206e-13 :   0.0
+    constAC05 : Size=1
+        Key  : Lower : Body                : Upper
+        None :  None : -109.99999790001536 :   0.0
+    constAC06 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constAC07 : Size=1
+        Key  : Lower : Body                  : Upper
+        None :   0.0 : 2.842170943040401e-14 :   0.0
+    constAC08 : Size=6
+        Key : Lower : Body                   : Upper
+        CH4 :   0.0 : -9.313225746154785e-10 :   0.0
+        CO2 :   0.0 : -9.313225746154785e-10 :   0.0
+         H2 :   0.0 : -9.313225746154785e-10 :   0.0
+        H2O :   0.0 : -9.313225746154785e-10 :   0.0
+         N2 :   0.0 : -9.313225746154785e-10 :   0.0
+         O2 :   0.0 : -9.313225746154785e-10 :   0.0
+    constAC09 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constAC10 : Size=1
+        Key  : Lower : Body                : Upper
+        None :  None : 0.03888043080926151 :  0.09
+    constAC11 : Size=1
+        Key  : Lower : Body                : Upper
+        None :   0.0 : 0.03888043080926151 :  None
+    constAC13 : Size=1
+        Key  : Lower : Body  : Upper
+        None : 550.0 : 550.0 : 550.0
+    constAC14 : Size=1
+        Key  : Lower : Body                  : Upper
+        None :   0.0 : 2.842170943040401e-14 :   0.0
+    constAC15 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constAC16 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constAC17 : Size=1
+        Key  : Lower : Body               : Upper
+        None :  None : -337.8579091128287 :   0.0
+    constAC18 : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : -8.881784197001252e-16 :   0.0
+    constAC19 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constPV01 : Size=1
+        Key  : Lower : Body                  : Upper
+        None :   0.0 : 3.637978807091713e-12 :   0.0
+    constPV02 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constPV03 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constPV04 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constPV05 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constpr01 : Size=1
+        Key  : Lower : Body                   : Upper
+        None :  None : 1.0091389412991703e-06 : 1e-06
+    constpr02 : Size=1
+        Key  : Lower : Body                  : Upper
+        None :  None : 1.008855178952217e-06 : 1e-06
+    constpr03 : Size=1
+        Key  : Lower : Body : Upper
+        None :   0.0 :  0.0 :   0.0
+    constCX : Size=1
+        Key  : Lower : Body               : Upper
+        None :  None : -1427187.476026135 : 1e-06
+    constOX : Size=1
+        Key  : Lower : Body                : Upper
+        None :  None : -1641969.4346543548 : 1e-06
+
+  Blocks:
+    Block trf_data
+    
+      Variables:
+        ef_outputs : Size=10, Index={1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+            Key : Lower : Value                  : Upper : Fixed : Stale : Domain
+              1 :  None :      26677.12706868019 :  None : False : False :  Reals
+              2 :  None :     62.831854956750846 :  None : False : False :  Reals
+              3 :  None :      5.231487167822471 :  None : False : False :  Reals
+              4 :  None : 0.00013536356695175215 :  None : False : False :  Reals
+              5 :  None :     1184.4444449569341 :  None : False : False :  Reals
+              6 :  None :      6.603753728904132 :  None : False : False :  Reals
+              7 :  None :      522.5589383161405 :  None : False : False :  Reals
+              8 :  None :      23512996.06076199 :  None : False : False :  Reals
+              9 :  None :  4.090909094355977e-10 :  None : False : False :  Reals
+             10 :  None :      7589530.782253149 :  None : False : False :  Reals
+    
+      Objectives:
+        None
+    
+      Constraints:
+        sm_constraint_basis : Size=10
+            Key : Lower : Body                    : Upper
+              1 :   0.0 :  -3.637978807091713e-12 :   0.0
+              2 :   0.0 :                     0.0 :   0.0
+              3 :   0.0 : -2.6645352591003757e-15 :   0.0
+              4 :   0.0 :  -2.710505431213761e-20 :   0.0
+              5 :   0.0 :                     0.0 :   0.0
+              6 :   0.0 :  -8.881784197001252e-16 :   0.0
+              7 :   0.0 :                     0.0 :   0.0
+              8 :   0.0 :                     0.0 :   0.0
+              9 :   0.0 :                     0.0 :   0.0
+             10 :   0.0 :   9.313225746154785e-10 :   0.0

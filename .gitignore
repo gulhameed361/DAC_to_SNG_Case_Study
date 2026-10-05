@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# new runs write here; the reported results are in results/reference/
+results/*.log
+results/*.csv
+results/*.png
+results/*.svg

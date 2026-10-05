@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "DAC-to-SNG case study: f-TRFu on a direct-air-capture to synthetic-natural-gas flowsheet"
+abstract: "Grey-box model and scripts that reproduce the f-TRFu results of the DAC-to-SNG case study (Section 8.2) of the PhD thesis “Rigorous Trust-Region Algorithms for Surrogate-based Grey-box Optimisation”. The process model is adapted from Dolat et al., Applied Energy 384 (2025) 125413."
+authors:
+  - family-names: Hameed
+    given-names: Gul
+    affiliation: "School of Chemistry and Chemical Engineering, University of Surrey"
+version: "1.0.0"
+date-released: "2026-10-05"
+license: MIT
+keywords:
+  - "grey-box optimisation"
+  - "direct air capture"
+  - "synthetic natural gas"
+  - "dual-function material"
+  - "trust-region funnel"
+  - "Pyomo"
+references:
+  - type: thesis
+    title: "Rigorous Trust-Region Algorithms for Surrogate-based Grey-box Optimisation"
+    authors:
+      - family-names: Hameed
+        given-names: Gul
+    institution:
+      name: "University of Surrey"
+    year: 2026
+    thesis-type: "PhD thesis"

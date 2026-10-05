@@ -1,0 +1,28 @@
+quantity,unit,value
+Outer trust-region iterations,-,37
+f-type steps,-,20
+theta-type steps,-,17
+rejected steps,-,0
+Wall time,s,40.1
+Total annualised cost (objective),USD/year,4259084.663031476
+VAF total capital cost,USD,705029.2505943301
+VAF operational cost,USD/year,166365.24841136084
+SOEL total capital cost,USD,32747866.670602284
+SOEL operational cost,USD/year,3115738.414505648
+DFM total capital cost,USD,23512996.060491677
+DFM operational cost,USD/year,2.005903558002433e-09
+DFM units in each train,-,5.231487167452481
+DFM unit size (each),m3,62.831854961193876
+Air velocity inside channels,m/s,6.603753728937029
+Unit diameter,m,4.000000040132357
+Unit height/length,m,5.0000000500226225
+Pressure drop in each unit,Pa,522.5589383157236
+Total adsorbent weight,kg,26677.127068679907
+Adsorption time,s,499.9999949999037
+Net CO2 uptake,kmol/kg,0.00013536356695172607
+Boiler total capital cost,USD,54554.293627673316
+Air-cooler total capital cost,USD,47228.62845306872
+Air-cooler operational cost,USD/year,1835.2063863842368
+Separator total capital cost,USD,4.012252671471521e-08
+Pressure vessel total capital cost,USD,24899.247839396332
+Profit (product and steam),USD/year,1879229.1583139845
